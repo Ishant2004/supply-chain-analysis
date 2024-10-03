@@ -1,5 +1,7 @@
 # Supply-Chain-Analysis
 
+To see the project open the ipynb file in preview mode
+
 Overview
 This project analyzes a supply chain dataset with attributes such as product types, SKU, price, availability, sales, revenue, stock levels, lead times, and defect rates. The goal is to derive actionable insights to improve supply chain efficiency and effectiveness.
 
